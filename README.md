@@ -1,7 +1,7 @@
 These files were creating using a video lecture from @Andrei-Aksionov.
 
-The files do no represent new knowlege. Rather, these files represent a proof of concept that
-I could follow and understand the steps needed to create a LLM so that I may better understand
+The files do no represent my creation of new work. Rather, these files represent a proof of concept 
+that I could follow and understand the steps needed to create a LLM so that I may better understand
 various alignment techniques.
 
 LLM_that_works.py represents the final model, and in its current interation outputs very weak
